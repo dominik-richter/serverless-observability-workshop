@@ -1,5 +1,5 @@
 +++
-title = "Create a Metric Alarms"
+title = "Create Metric Alarms"
 weight = 11
 +++
 
